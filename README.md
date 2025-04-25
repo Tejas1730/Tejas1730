@@ -33,9 +33,8 @@ Here are a few highlights:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1730&show_icons=true&theme=radical" alt="Tejas' GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1730&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1730&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1730&layout=compact&theme=default&hide_border=true" width="48%"/>
 </p>
 
 ---
