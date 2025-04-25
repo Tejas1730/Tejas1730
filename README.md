@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on an **AI for Mineral Targeting** project focused on Karnataka & Andhra Pradesh
-- 🌱 Learning **Java | Spring Boot | GCP | AI/ML**
+- 🌱 Learning **Java | Spring Boot | AWS | AI/ML**
 - 💬 Ask me about **backend development, APIs, and cloud integrations**
 - ⚡ Fun fact: I like debugging as much as building new features
 
@@ -14,8 +14,8 @@
 ---
 ### 📫 Reach Me At:
 <p>
-  <a href="mailto:tejasdeshpande1730@gmail.com"><img src="https://img.shields.io/badge/Email-tejas1730@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="www.linkedin.com/in/tejasdeshpande1730"><img src="https://img.shields.io/badge/LinkedIn-tejas1730-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:tejasdeshpande1730@gmail.com"><img src="https://img.shields.io/badge/Email-tejasdeshpande1730@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="www.linkedin.com/in/tejasdeshpande1730"><img src="https://img.shields.io/badge/LinkedIn-Tejas Deshpande-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
