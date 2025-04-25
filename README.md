@@ -7,11 +7,18 @@
 - 🔭 I’m currently working on an **AI for Mineral Targeting** project focused on Karnataka & Andhra Pradesh
 - 🌱 Learning **Java | Spring Boot | GCP | AI/ML**
 - 💬 Ask me about **backend development, APIs, and cloud integrations**
-- 📫 Reach me at: **tejas1730@gmail.com**
 - ⚡ Fun fact: I like debugging as much as building new features
 
 ---
 
+---
+### 📫 Reach Me At:
+<p>
+  <a href="mailto:tejasdeshpande1730@gmail.com"><img src="https://img.shields.io/badge/Email-tejas1730@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="www.linkedin.com/in/tejasdeshpande1730"><img src="https://img.shields.io/badge/LinkedIn-tejas1730-blue?style=flat&logo=linkedin"></a>
+</p>
+
+---
 ### 🛠️ Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -41,5 +48,5 @@ Here are a few highlights:
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejas1730&theme=radical&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejas1730&theme=default&row=1&margin-w=15"/>
 </p>
